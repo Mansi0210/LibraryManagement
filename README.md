@@ -1,4 +1,4 @@
-# LibraryManagement
+# Library Management
 This project implements a "Library Management System" using "Test-Driven Development (TDD)". It enables users to perform basic library operations like adding, borrowing, returning, and viewing books.
 
 Included Key Features are:
