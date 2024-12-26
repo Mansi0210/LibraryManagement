@@ -13,7 +13,7 @@ How to Setup Project on Local Machine?:
   - Maven for dependencies.
 
 2. Clone the Repository:
-  - Use the command "git clone https://github.com/Mansi0210/LibraryManagement.git "and navigate to the project folder.
+  - Use the command git clone "https://github.com/Mansi0210/LibraryManagement.git  "and navigate to the project folder.
 
 3. Import Project into IntelliJ IDEA:
   - Open IntelliJ IDEA, select File > Open..., and choose the project directory.
